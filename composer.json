@@ -1,0 +1,15 @@
+{
+    "name": "asia/php_mvc_framework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Asia Khan",
+            "email": "asia2603@yahoo.com"
+        }
+    ],
+    "require": {}
+}

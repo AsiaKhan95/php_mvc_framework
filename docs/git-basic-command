@@ -1,0 +1,12 @@
+# All of the git command that I know
+
+git --version
+git status
+git init
+git add .
+git \*.js
+.gitignore
+git remote
+git remote add origin https://github.com/AsiaKhan95/php_mvc_framework.git
+git branch -M main
+git push -u origin main
